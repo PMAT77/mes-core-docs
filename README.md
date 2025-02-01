@@ -43,3 +43,7 @@ docs # 文档根目录
 
 修改 `.vitepress` 目录下的 `config.mts` 文件，进行站点相关配置。
 具体配置项参考官方文档：[Vitepress 站点配置](https://vitepress.dev/zh/reference/site-config)
+
+## 构建部署
+
+文档使用 Github Workflows，将内容提交到 `main` 分支后，会自动构建并部署到站点。
