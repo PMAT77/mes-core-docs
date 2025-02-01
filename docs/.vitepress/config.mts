@@ -64,7 +64,7 @@ export default defineConfig({
 
     /** 社交帐户 */
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: "https://github.com/PMAT77/mes-core-docs" },
     ],
 
     footer: {
