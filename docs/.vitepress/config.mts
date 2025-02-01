@@ -4,7 +4,7 @@ export default defineConfig({
   title: "MES Core",
   description: "简洁优雅MES核心系统",
   base: "/mes-core-docs/",
-  head: [["link", { rel: "icon", href: "/favicon.ico" }]],
+  head: [["link", { rel: "icon", href: "/mes-core-docs/favicon.ico" }]],
   themeConfig: {
     /** LOGO */
     logo: "/svgs/logo.svg",
