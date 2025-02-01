@@ -1,0 +1,14 @@
+:root {
+  /* Component: Tips */
+  --vp-tips-text: var(--vp-c-text-1);
+  --vp-tips-bg: var(--vp-c-bg-soft);
+
+  --vp-tips-info-text: var(--vp-c-brand-1);
+  --vp-tips-info-bg: var(--vp-c-brand-lightest);
+
+  --vp-tips-warning-text: var(--vp-c-warning-1);
+  --vp-tips-warning-bg: var(--vp-c-warning-soft);
+
+  --vp-tips-danger-text: var(--vp-c-danger-1);
+  --vp-tips-danger-bg: var(--vp-c-danger-soft);
+}
