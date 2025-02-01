@@ -1,5 +1,9 @@
 # Vue 写法规范
 
+<tips type="info">
+为降低开发心智负担，MES Core 已配置 <code>eslint</code> 和 <code>prettier</code>，保存时将自动格式化代码风格。
+</tips>
+
 ## SFC 顺序
 
 在 **Vue 的单文件组件（Single File Component, SFC）** 中，代码的组织顺序对于代码的可读性和维护性非常重要。虽然没有严格的强制规定，但遵循一定的约定和最佳实践可以让代码更加清晰和易于理解。
