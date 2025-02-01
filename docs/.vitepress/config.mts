@@ -3,6 +3,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "MES Core",
   description: "简洁优雅MES核心系统",
+  base: "/mes-core-docs/",
   themeConfig: {
     /** LOGO */
     logo: "/svgs/logo.svg",
