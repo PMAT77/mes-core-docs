@@ -54,10 +54,7 @@ export default defineConfig({
         },
         {
           text: "综合篇",
-          items: [
-            { text: "字段", link: "/standard/summary/fields" },
-            { text: "权限标识", link: "/standard/summary/auth-mark" },
-          ],
+          items: [{ text: "接口相关", link: "/standard/summary/api" }],
         },
       ],
     },
